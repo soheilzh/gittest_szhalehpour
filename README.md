@@ -4,3 +4,5 @@ screenshot_urban_inf.png
 screenshot_urban_inf.png
 screenshot_urban_inf.png
 screenshot_urban_inf.png
+/home/soheil/PUI2015/screenshot_urabn_inf.png
+# gittest_szhalehpour
